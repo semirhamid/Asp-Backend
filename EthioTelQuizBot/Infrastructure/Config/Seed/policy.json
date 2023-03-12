@@ -1,0 +1,17 @@
+[
+    {
+        "Name": "GeneralDirector",
+        "Claim": "GeneralDirectorAccess",
+        "Value": "GeneralDirectorAccess"
+    },
+    {
+        "Name": "DirectorPolicy",
+        "Claim": "DirectorAccess",
+        "Value": "DirectorAccess"
+    },
+    {
+        "Name": "UnitLeader",
+        "Claim": "UnitLeader",
+        "Value": "UnitLeader"
+    }
+]
